@@ -17,4 +17,5 @@
            <bean id="personDao" class="com.lara.PersonDAO">
            		 <property name="jdbcTemplate" ref="template"/>
            </bean>
-      </beans>
+      </beans >
+
